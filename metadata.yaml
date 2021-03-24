@@ -1,0 +1,50 @@
+_repo: Dans-l-abime_64590
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Davray, Henry-D.
+    aliases:
+    - Durand-Davray, Henry
+    - Davray, Henry Durand
+    - Davray, H. D. (Henry-D.)
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '51075'
+    url: http://www.gutenberg.org/2009/agents/51075
+    wikipedia: https://fr.wikipedia.org/wiki/Henry_Durand-Davray
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
+  editor:
+    agent_name: Figuier, Louis
+    alias: Figuier, Guillaume-Louis
+    birthdate: 1819
+    deathdate: 1894
+    gutenberg_agent_id: '25945'
+    url: http://www.gutenberg.org/2009/agents/25945
+    wikipedia: https://fr.wikipedia.org/wiki/Louis_Figuier
+description: ''
+gutenberg_issued: '2021-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64590'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English -- Translations into French'
+- !lcsh 'Science fiction, English -- Translations into French'
+- !lcsh 'Fantasy fiction, English -- Translations into French'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Dans l'abîme -- Triomphes d'un taxidermiste -- La pomme -- L'homme
+  volant.
+title: Dans l'abîme
+url: http://www.gutenberg.org/ebooks/64590
