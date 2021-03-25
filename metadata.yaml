@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '51075'
     url: http://www.gutenberg.org/2009/agents/51075
     wikipedia: https://fr.wikipedia.org/wiki/Henry_Durand-Davray
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25945
     wikipedia: https://fr.wikipedia.org/wiki/Louis_Figuier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64590#Dans-l-abime
 gutenberg_issued: '2021-02-18'
 gutenberg_type: Text
 identifiers:
